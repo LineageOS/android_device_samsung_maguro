@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAASn///fY\u003d",
+        "filename": "cm.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2012-04-17T18:48:42Z",
+      "side": 1,
+      "message": "add:\n“branch”: “ics”",
+      "revId": "d59a93609c4abb5e72da6bb95ec7a0aa4979f729",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
