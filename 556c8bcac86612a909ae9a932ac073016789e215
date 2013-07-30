@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_9c164954",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 435
+      },
+      "writtenOn": "2013-07-30T19:33:13Z",
+      "side": 1,
+      "message": "bluetooth_le.xml",
+      "revId": "556c8bcac86612a909ae9a932ac073016789e215",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
