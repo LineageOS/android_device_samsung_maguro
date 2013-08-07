@@ -16,6 +16,24 @@
       "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fae47921_f83669b3",
+        "filename": "factory-images/generate-factory-images-package.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-07T02:09:30Z",
+      "side": 0,
+      "message": "IMHO, we don\u0027t need this references for a jellybean branch. We can check this out at cm-10.1 branch or older. Also we prevents future conflicts in merges for this device, because it\u0027s identical to AOSP master branch.\n\nUp to you, of course.",
+      "parentUuid": "fae47921_95eba6b0",
+      "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
