@@ -52,6 +52,24 @@
       "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fae47921_3893d1fc",
+        "filename": "factory-images/generate-factory-images-package.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-07T08:34:47Z",
+      "side": 0,
+      "message": "You are wrong because generate-packages.sh contains those names. See: http://review.cyanogenmod.org/#/c/46170/6/self-extractors/generate-packages.sh\n\nThis file is in: https://android.googlesource.com/device/samsung/maguro/+/master/factory-images/generate-factory-images-package.sh and it\u0027s same at this commit.",
+      "parentUuid": "fae47921_5851f561",
+      "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
