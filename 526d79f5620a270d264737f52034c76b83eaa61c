@@ -34,6 +34,24 @@
       "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fae47921_5851f561",
+        "filename": "factory-images/generate-factory-images-package.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2013-08-07T07:50:56Z",
+      "side": 0,
+      "message": "look at this:\nhttps://android.googlesource.com/device/samsung/maguro/+/master/self-extractors/generate-packages.sh\n\n236517 \u003d IML70C\n237179 \u003d IML73\n237867 \u003d IML74B\n238432 \u003d IML74E\n...\n\nare already there at master branch. I would prefer maintain them in order to merge and also this don\u0027t affect for compilation.\n\nRafael",
+      "parentUuid": "fae47921_f83669b3",
+      "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
