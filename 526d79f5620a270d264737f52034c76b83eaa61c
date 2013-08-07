@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fae47921_95eba6b0",
+        "filename": "factory-images/generate-factory-images-package.sh",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 176
+      },
+      "writtenOn": "2013-08-07T01:24:46Z",
+      "side": 0,
+      "message": "Whats the reason remove that sections?",
+      "revId": "526d79f5620a270d264737f52034c76b83eaa61c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
