@@ -16,7 +16,7 @@ $(call inherit-product, device/samsung/maguro/aosp_maguro.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := maguro
-PRODUCT_NAME := cm_maguro
+PRODUCT_NAME := lineage_maguro
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_MANUFACTURER := samsung
