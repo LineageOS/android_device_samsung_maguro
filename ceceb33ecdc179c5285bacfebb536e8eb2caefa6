@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa5d592f_5400ea00",
+        "filename": "lineage.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2017-03-03T12:43:08Z",
+      "side": 1,
+      "message": "Inherit some common LineageOS stuff.",
+      "revId": "ceceb33ecdc179c5285bacfebb536e8eb2caefa6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
