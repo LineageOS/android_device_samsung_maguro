@@ -8,9 +8,6 @@ TARGET_SCREEN_WIDTH := 720
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_mini_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
-
 # Inherit device configuration
 $(call inherit-product, device/samsung/maguro/aosp_maguro.mk)
 
